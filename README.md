@@ -1,8 +1,6 @@
 # Acenda a Lampada 
 Exercício de Função 
 
-Hoje fiz um exercício simples para acender uma lâmpanda.
-
 Estou usando tres eventos do JavaScript
 
 |||
